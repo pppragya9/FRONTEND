@@ -1,6 +1,6 @@
 # AeroTactical Command 🛰️🚁
 ### Autonomous UAV Fleet Traffic Management (UTM) & Command Center
-**Smart India Hackathon (SIH) Ready Solution**
+**Smart India Hackathon (SIH) **
 
 ---
 
@@ -85,5 +85,5 @@ Open your browser at `http://localhost:3000` to interact with the live command d
 
 ---
 
-## 🏆 SIH Submission Summary
+## Summary
 **AeroTactical Command** bridges the gap between raw drone telemetry and high-stakes field execution. By incorporating DGCA airspace compliance hooks, AI anomaly chips, offline resilience, and a dual-persona HUD, this project offers judges a complete, industry-ready UTM command center solution.
