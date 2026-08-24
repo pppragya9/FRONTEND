@@ -14,7 +14,7 @@ In critical missions such as **Disaster Relief & Search & Rescue (SAR)**, **High
 ## ⚡ Key Highlights (SIH Hackathon Pitch Features)
 
 ### 1. 🛡️ DGCA Airspace Compliance & Safety Lock
-- **Altitude Cap Lock**: Enforces DGCA Rule 34(a) cap (400 ft / 121.9 m AGL) with active compliance indicators.
+- **Altitude Cap Lock**: Enforces DGCA Rule 34(a) cap (eg-400 ft / 121.9 m AGL) with active compliance indicators.
 - **Geofence Enforcement**: Live polygon overlays for restricted airspace and airport buffer zones with automated trigger warnings.
 - **Master Emergency Fleet Shutdown**: Two-step authorization modal to trigger controlled descent across all airborne units.
 - **Compliance Audit Trail**: Timestamped log table tracking all operator actions with unique DGCA reference codes (`DGCA-LOG-XXXX`).
